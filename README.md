@@ -4,6 +4,6 @@ Python script to determine the voltage required to produce the energy needed to 
 This python has variables listed inside main(). Each variable can be modifed to suite experimental parameters.
 
 The ultimate aim of the script was to provide sensor inputs to determine the variable values. 
-The system would then know the voltage required to discocate the water electrolyte based real world measurements.
+The system would then know the voltage required to dissociate the water electrolyte based real world measurements.
 
 Some of the formulea were determined from trial and error, algebraic experimentation to determine the best fit equation.
